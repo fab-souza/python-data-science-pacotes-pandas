@@ -16,4 +16,4 @@
 ![](https://user-images.githubusercontent.com/67301805/205658883-f1b3309f-43b7-46bd-841d-b02673002503.jpg#vitrinedev)
 
 
-O que aprendi no 3º curso da formação: Python para Data Science (Alura)
+Neste curso, aprendi sobre as tuplas e dicionários, de como criá-las, executar seleções e iterações. E depois, sobre os principais comandos do Pandas. Por exemplo, abrir um arquivo ‘.csv’, ver os tipos de cada variável e a quantidade de elementos não nulos em cada uma. Depois aprendi sobre o ‘.loc’, ‘.iloc’, ‘.isna’, ‘fillna’ e ‘.dropna’.
