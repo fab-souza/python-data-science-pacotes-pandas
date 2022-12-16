@@ -10,7 +10,7 @@
 | :sparkles: Nome        | **Python para Data Science: Funções, Pacotes e Pandas**
 | :label: Tecnologias | python
 | :rocket: URL         | https://github.com/fab-souza/python-data-science-pacotes-pandas/
-| :fire: Desafio     | [Python para Data Science: linguagem e Numpy](https://www.alura.com.br/curso-online-python-funcoes-pacotes-pandas)
+| :fire: Desafio     | Conteúdo do curso [Python para Data Science: linguagem e Numpy](https://www.alura.com.br/curso-online-python-funcoes-pacotes-pandas)
 
 ![](https://user-images.githubusercontent.com/67301805/205658883-f1b3309f-43b7-46bd-841d-b02673002503.jpg#vitrinedev)
 
