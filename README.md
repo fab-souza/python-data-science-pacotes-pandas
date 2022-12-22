@@ -18,10 +18,15 @@
 
 Neste curso, aprendi sobre as tuplas e dicionários, de como criá-las, executar seleções e iterações. E depois, sobre os principais comandos do Pandas. Por exemplo, abrir um arquivo ‘.csv’, ver os tipos de cada variável e de como visualizar um intervalo de linhas do dataframe. Depois aprendi sobre o ‘.loc’, ‘.iloc’, ‘.isna’, ‘fillna’ e ‘.dropna’.
 
-Usei a base de dados, oferecida pelo Colab, para treinar. Primeiro, fiz a leitura do arquivo csv, depois verifiquei os tipos de variáveis presentes no dataframe. Escolhi duas variáveis para gerar estatísticas descritivas, ‘housing_median_age’ e ‘median_house_value’, com o ‘.describe()’, porque eu não queria ver a estatística de todas as variáveis. Para ter uma visão geral do dataframe, usei o ‘.info()’. Estou fazendo este treino no dia 07/12/22, por isso selecionei o intervalo de linhas [7, 12]. Em seguida, utilizei o ‘.loc’ para ver todas as informações do índice 7 do dataframe, também fiz uma seleção dos índices 7 e 12, primeiramente visualizando todas as informações, depois restringi a visualização a duas variáveis, ‘housing_median_age’ e ‘median_house_value’. Para o ‘.iloc’, continuei a seleção de [7:12], porém também apresentei o dataframe de uma forma diferente, mostrando as variáveis [0, 1, -1, 5], ‘longitude’, ‘latitude’, ‘median_house_value’ e ‘population’, respectivamente. Também criei uma variável para receber todas linhas que tinham um ‘housing_median_age’ menor do que 5, depois selecionei as linhas que também tinham um ‘median_income’ maior do que 10. Por fim, usei o ‘.query()’ para repetir a última seleção.
+## Minha prática 👩🏻‍💻
 
----
-<h3>Ferramentas utilizadas:</h3>
-    <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+Usei a base de dados, oferecida pelo Colab, para treinar. Primeiro, fiz a leitura do arquivo csv, depois verifiquei os tipos de variáveis presentes no dataframe. Escolhi duas variáveis para gerar estatísticas descritivas, ‘housing_median_age’ e ‘median_house_value’, com o ‘.describe()’, porque eu não queria ver a estatística de todas as variáveis. 
+
+Para ter uma visão geral do dataframe, usei o ‘.info()’. Estou fazendo este treino no dia 07/12/22, por isso selecionei o intervalo de linhas [7, 12]. Em seguida, utilizei o ‘.loc’ para ver todas as informações do índice 7 do dataframe, também fiz uma seleção dos índices 7 e 12, primeiramente visualizando todas as informações, depois restringi a visualização a duas variáveis, ‘housing_median_age’ e ‘median_house_value’. 
+
+Para o ‘.iloc’, continuei a seleção de [7:12], porém também apresentei o dataframe de uma forma diferente, mostrando as variáveis [0, 1, -1, 5], ‘longitude’, ‘latitude’, ‘median_house_value’ e ‘population’, respectivamente. Também criei uma variável para receber todas linhas que tinham um ‘housing_median_age’ menor do que 5, depois selecionei as linhas que também tinham um ‘median_income’ maior do que 10. Por fim, usei o ‘.query()’ para repetir a última seleção.
+
+## Ferramentas utilizadas 🧰
+<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
           </p>
